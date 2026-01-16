@@ -23,8 +23,8 @@ The design is conceptual and intended for CAD learning purposes.
 - Circular Pattern
 
 ## Screenshots
-![Isometric View](images/iso_view.png)
-![Front View](images/front_view.png)
+![Isometric View] https://image2url.com/r2/default/images/1768584476793-47020eb3-e8f5-4c51-92e1-746f72bbd0d6.png
+![Front View] 
 ![Feature Tree](images/feature_tree.png)
 
 ## Learning Outcomes
